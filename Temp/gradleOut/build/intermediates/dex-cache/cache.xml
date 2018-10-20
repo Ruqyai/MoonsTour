@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Public\Documents\Unity Projects\MoonsTuor\Temp\gradleOut\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2d302418aa3482b8db770278260340aed47dd37a">
+        <dex dex="C:\Users\Public\Documents\Unity Projects\MoonsTuor\Temp\gradleOut\build\intermediates\pre-dexed\release\unity-classes_2b680999ddf238667af0fc1625c98a022ca86fc2.jar" />
+    </item>
+
+</items>
